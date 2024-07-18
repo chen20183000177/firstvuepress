@@ -4,7 +4,7 @@
 :smiling_face_with_three_hearts: 欢迎光临:tada: ！
 
 ## image
-![数据库产业图谱](.vuepress/public/image/中国数据库产业图谱（2024年）.jpg)
+![数据库产业图谱](/image/中国数据库产业图谱（2024年）.jpg)
 
 ## code
 
